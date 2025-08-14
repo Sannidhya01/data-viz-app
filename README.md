@@ -26,10 +26,10 @@ A full-stack web application for uploading, analyzing, and visualizing datasets 
 
 ## 🛠 Tech Stack
 
-**Frontend:** React, Chart.js, react-chartjs-2, HTML, CSS
-**Backend:** Django, Django REST Framework
-**Database:** SQLite (default, can switch to PostgreSQL/MySQL)
-**Other:** Fetch API for REST calls, JSON for data exchange
+**Frontend:** React, Chart.js, react-chartjs-2, HTML, CSS  
+**Backend:** Django, Django REST Framework  
+**Database:** SQLite (default, can switch to PostgreSQL/MySQL)  
+**Other:** Fetch API for REST calls, JSON for data exchange  
 
 
 ## 📂 Project Structure
