@@ -1,0 +1,127 @@
+#homeButton {
+    background-color: rgb(42, 171, 251);
+    color: rgb(255, 255, 255);
+    padding: 7px 12px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    position: fixed;
+    top: 2.5%;
+    right: 25%;
+    margin: 1%;
+}
+
+#homeButton:hover {
+    background-color: rgb(39, 39, 171);
+}
+
+#logoutButton {
+    background-color: rgb(42, 171, 251);
+    color: white;
+    padding: 7px 12px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    position: fixed;
+    top: 2.5%;
+    right: 0.5%;
+    margin: 1%;
+}
+
+#logoutButton:hover {
+    background-color: rgb(39, 39, 171);
+}
+
+#deleteButton {
+    background-color: rgb(42, 171, 251);
+    color: white;
+    padding: 7px 12px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    position: fixed;
+    top: 2.5%;
+    right: 6.5%;
+    margin: 1%;
+}
+
+#deleteButton:hover {
+    background-color: rgb(39, 39, 171);
+}
+
+
+#chartOptionsSubmit {
+  background-color: rgb(42, 171, 251);
+  color: white;
+  padding: 7px 12px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+#chartOptionsSubmit:hover {
+  background-color: rgb(39, 39, 171);
+}
+
+#chartOptions{
+    text-align: center;
+    position: fixed;
+    place-items: center;
+    width: 30%;
+    border: 2px solid white;
+    padding-bottom: 30px;
+    border-radius: 10px;
+    padding-top: 25px;
+}
+
+.optionsLabel{
+    font-weight: bold;
+}
+
+.options{
+    width: 30%;
+    font-weight: bold;
+}
+
+#showTable {
+    background-color: rgb(42, 171, 251);
+    color: rgb(255, 255, 255);
+    padding: 7px 12px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    position: fixed;
+    top: 2.5%;
+    right: 16.65%;
+    margin: 1%; 
+}
+
+#showTable:hover {
+    background-color: rgb(39, 39, 171);
+}
+
+#title {
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 2%;
+  margin: 1%;
+  font-size: 450%;
+}
+
+#rightDiv{
+    width: 70%;
+    padding: 20px;
+    max-height: 100vh;   
+    overflow-y: auto;  
+    overflow-x: auto;    
+}
+
+
+
+

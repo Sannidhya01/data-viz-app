@@ -1,0 +1,95 @@
+
+#logoutButton{
+    background-color: rgb(42, 171, 251);
+    color: white;
+    padding: 7px 12px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    position: fixed;
+    top: 0;
+    right: 0;
+    margin: 1%;
+}
+
+#logoutButton:hover {
+    background-color: rgb(39, 39, 171);
+}
+
+#uploadButton{
+    background-color: rgb(42, 171, 251);
+    color: white;
+    padding: 7px 12px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    position: fixed;
+    top: 0;
+    right: 6%;
+    margin: 1%;
+}
+
+#uploadButton:hover {
+    background-color: rgb(39, 39, 171);
+}
+
+#datasetView {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16px;
+  width: 100%;
+  margin: 0;
+  box-sizing: border-box;
+  align-self: flex-start;
+}
+
+.datasetCard {
+  flex: 0 1 calc(25% - 16px);
+  background-color: rgba(22, 25, 58, 0.235);
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  cursor: pointer;
+  padding: 12px;
+  box-sizing: border-box;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.datasetCard:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+#title {
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 2%;
+  margin: 1%;
+  font-size: 450%;
+}
+
+.datasetCardNew {
+  flex: 0 1 calc(25% - 16px); 
+  background-color: rgba(23, 23, 28, 0.505);
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  padding: 4px;
+  cursor: pointer;
+  box-sizing: border-box;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.datasetCardNew:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+
+
