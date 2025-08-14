@@ -35,7 +35,7 @@ A full-stack web application for uploading, analyzing, and visualizing datasets 
 ## 📂 Project Structure
 
 
-/frontend   → React app (UI & charts)
+/frontend   → React app (UI & charts)  
 /backend    → Django app (API & DB handling)
 
 
@@ -75,6 +75,7 @@ Frontend will start at: `http://localhost:3000`
 <img width="1470" height="799" alt="Screenshot 2025-08-14 at 10 35 34 PM" src="https://github.com/user-attachments/assets/b4bbbf89-2367-4580-9435-f264a31675f8" />
 <img width="1470" height="799" alt="Screenshot 2025-08-14 at 10 35 44 PM" src="https://github.com/user-attachments/assets/f008abc2-ff63-4625-8ea3-dd720f704aa5" />
 <img width="1470" height="797" alt="Screenshot 2025-08-14 at 10 36 00 PM" src="https://github.com/user-attachments/assets/d86af3ad-44b3-4b10-9f92-fbc438c8aea9" />
+<img width="1470" height="798" alt="Screenshot 2025-08-14 at 10 42 07 PM" src="https://github.com/user-attachments/assets/cd4676ea-8677-4d92-b2f5-29d468f244f2" />
 <img width="1470" height="799" alt="Screenshot 2025-08-14 at 10 37 22 PM" src="https://github.com/user-attachments/assets/753893f2-fad1-44de-8942-6b71b9873fad" />
 <img width="1470" height="797" alt="Screenshot 2025-08-14 at 10 39 11 PM" src="https://github.com/user-attachments/assets/a4fe4bda-91d9-4e63-b31d-9bb9868b65bd" />
 <img width="1470" height="799" alt="Screenshot 2025-08-14 at 10 40 24 PM" src="https://github.com/user-attachments/assets/3f3e95a6-6931-49d0-bd3b-52454574d47a" />
@@ -84,7 +85,6 @@ Frontend will start at: `http://localhost:3000`
 <img width="1470" height="798" alt="Screenshot 2025-08-14 at 10 41 25 PM" src="https://github.com/user-attachments/assets/81b5cfdb-fb25-402a-ad89-1cf763b6e5eb" />
 <img width="1470" height="797" alt="Screenshot 2025-08-14 at 10 41 38 PM" src="https://github.com/user-attachments/assets/2c6e313e-441e-4752-aade-b17735d736f9" />
 <img width="1470" height="797" alt="Screenshot 2025-08-14 at 10 41 53 PM" src="https://github.com/user-attachments/assets/2d4a6156-adc0-46b0-a270-a168a25d0421" />
-<img width="1470" height="798" alt="Screenshot 2025-08-14 at 10 42 07 PM" src="https://github.com/user-attachments/assets/cd4676ea-8677-4d92-b2f5-29d468f244f2" />
 
 
 
